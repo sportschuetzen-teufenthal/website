@@ -1,28 +1,14 @@
 ---
 permalink: /schuetzenhaus/
-title: "Schützenhaus"
-image: /assets/images/Schuetzenhaus-Teufenthal.jpg
+layout: single
 excerpt: 'Das Schützenhaus der Sportschützen Teufenthal befindet sich im Feldmatten Industriequartier, unmittelbar nach der ehemaligen Firma Injecta AG ausgangs Teufenthal gegen Unterkulm. Die Schützenstube bietet Platz für Veranstaltungen bis zu 35 Personen und ist für unsere Vereinsmitglieder und auch für private Anlässe mietbar.'
-
-
 ---
 
-<div class="feature__wrapper">
+![schuetzenhaus]( {{ '/assets/images/Schuetzenhaus-Teufenthal.jpg' | relative_url }} ){:style="display:block; margin-left:auto; margin-right:auto"}
 
 
-    <div class="feature__item--left">
-      <div class="archive__item">
-          <div class="archive__item-teaser">
-            <img src="{{ image | relative_url }}" alt="">
-          </div>
+Das Schützenhaus der Sportschützen Teufenthal befindet sich im Feldmatten Industriequartier, unmittelbar nach der ehemaligen Firma Injecta AG ausgangs Teufenthal gegen Unterkulm. 
 
-        <div class="archive__item-body">
-            <h2 class="archive__item-title"></h2>
-            <div class="archive__item-excerpt">
-              {{ excerpt | markdownify }}
-            </div>
-        </div>
-      </div>
-    </div>
+Die Schützenstube bietet Platz für Veranstaltungen bis zu 35 Personen und ist für unsere Vereinsmitglieder und auch für private Anlässe mietbar.
 
-</div>
+
