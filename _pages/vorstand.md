@@ -9,7 +9,7 @@ permalink: /vorstand/
     <div class="feature__item--left">
       <div class="archive__item">
           <div class="archive__item-teaser">
-            <img src="{{ staff_member.image }}" alt="">
+            <img src="{{ staff_member.image | relative_url }}" alt="">
           </div>
 
         <div class="archive__item-body">
