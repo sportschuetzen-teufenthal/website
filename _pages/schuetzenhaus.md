@@ -1,0 +1,4 @@
+---
+permalink: /schuetzenhaus/
+title: "Schützenhaus"
+---
