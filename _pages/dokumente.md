@@ -6,7 +6,7 @@ title: "Dokumente"
 {% assign image_files = site.static_files%}
 {% for myimage in image_files %}
   {% if myimage.path contains '/dokumente/top/' %}
-<a href="{{ myimage.path }}">{{myimage.basename}}</a>
+<a href="{{ myimage.path | relative_url }}">{{myimage.basename}}</a>
   {% endif %}
 {% endfor %}
 
@@ -29,7 +29,7 @@ title: "Dokumente"
 
     {% if myimage.path contains filterpath %}
 
-<a href="{{ myimage.path }}">{{myimage.basename}}</a>
+<a href="{{ myimage.path | relative_url}}">{{myimage.basename}}</a>
 
     {% endif %}
 
