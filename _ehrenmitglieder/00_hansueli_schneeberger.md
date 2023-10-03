@@ -1,6 +1,6 @@
 ---
 name: Hansueli Schneeberger
-image: /assets/images/Vorstandsmitglieder-006.jpg
+image: /assets/images/Hansueli-Schneeberger-Ehrenmitglied.jpg
 ---
 1955 Eintritt  
 1957 – 1965 Aktuar  

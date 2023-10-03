@@ -1,6 +1,6 @@
 ---
 name: Hans Müller
-image: /assets/images/Vorstandsmitglieder-006.jpg
+image: /assets/images/hans-Mueller.jpg
 ---
 1966 Eintritt  
 1977 – 2006 Schützenmeister  

@@ -1,6 +1,6 @@
 ---
 name: Hans Fiechter
-image: /assets/images/Vorstandsmitglieder-006.jpg
+image: /assets/images/Hans-Fiechter-002.jpg
 ---
 1961 Eintritt  
 1965 – 1977 Schützenmeister  
