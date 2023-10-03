@@ -1,4 +1,50 @@
 ---
 permalink: /galerie/
 title: "Galerie"
+gallery:
+  - image_path: /assets/gallery/DSC01785.jpg
+  - image_path: /assets/gallery/DSC01786.jpg
+  - image_path: /assets/gallery/DSC01787.jpg
+  - image_path: /assets/gallery/DSC01788.jpg
+  - image_path: /assets/gallery/DSC01789.jpg
+  - image_path: /assets/gallery/DSC01790.jpg
+  - image_path: /assets/gallery/DSC01793.jpg
+  - image_path: /assets/gallery/DSC01794.jpg
+  - image_path: /assets/gallery/DSC01795.jpg
+  - image_path: /assets/gallery/DSC01928.jpg
+  - image_path: /assets/gallery/DSC01933.jpg
+  - image_path: /assets/gallery/DSC01934.jpg
+  - image_path: /assets/gallery/DSC01935.jpg
+  - image_path: /assets/gallery/DSC01937.jpg
+  - image_path: /assets/gallery/DSC01938.jpg
+  - image_path: /assets/gallery/DSC01940.jpg
+  - image_path: /assets/gallery/DSC01941.jpg
+  - image_path: /assets/gallery/DSC01944.jpg
+  - image_path: /assets/gallery/DSC01945.jpg
+  - image_path: /assets/gallery/DSC01948.jpg
+  - image_path: /assets/gallery/DSC01951.jpg
+  - image_path: /assets/gallery/DSC01952.jpg
+  - image_path: /assets/gallery/DSC01953.jpg
+  - image_path: /assets/gallery/DSC01954.jpg
+  - image_path: /assets/gallery/DSC01955.jpg
+  - image_path: /assets/gallery/DSC01956.jpg
+  - image_path: /assets/gallery/DSC01957.jpg
+  - image_path: /assets/gallery/DSC01958.jpg
+  - image_path: /assets/gallery/DSC01959.jpg
+  - image_path: /assets/gallery/IMGP6867.jpg
+  - image_path: /assets/gallery/IMGP7148.jpg
+  - image_path: /assets/gallery/IMGP7149.jpg
+  - image_path: /assets/gallery/IMGP7151.jpg
+  - image_path: /assets/gallery/IMGP7152.jpg
+  - image_path: /assets/gallery/IMGP7154.jpg
+  - image_path: /assets/gallery/IMGP7156.jpg
+  - image_path: /assets/gallery/IMGP7157.jpg
+  - image_path: /assets/gallery/IMGP7159.jpg
+  - image_path: /assets/gallery/IMGP7160.jpg
+  - image_path: /assets/gallery/IMGP7161.jpg
+  - image_path: /assets/gallery/IMGP7164.jpg
+  - image_path: /assets/gallery/IMGP7166.jpg
+  - image_path: /assets/gallery/IMGP7167.jpg
+  - image_path: /assets/gallery/IMGP7168.jpg
 ---
+{% include gallery class="full"%}
