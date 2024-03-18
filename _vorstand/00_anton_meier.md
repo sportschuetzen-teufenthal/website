@@ -1,9 +1,7 @@
 ---
 name: Anton Meier
-position: Präsident
+position: Wirt Schützenstube
 image: /assets/images/Vorstandsmitglieder-006.jpg
 ---
-Rosenweg 10  
-5040 Schöftland  
-Tel. 062 721 18 12  
-praesident@sportschuetzen-teufenthal.ch  
+
+![Meier Toni](https://github.com/sportschuetzen-teufenthal/website/assets/147444210/7b121d34-02fd-4ed2-a52d-a460e432e73f)
