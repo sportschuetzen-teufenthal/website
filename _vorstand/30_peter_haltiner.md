@@ -1,6 +1,6 @@
 ---
 name: Peter Haltiner
-position: Vorstandsmitglied
+position: Abwart Schützenhaus
 image: /assets/images/vorstand_peter_haltiner.jpg
 ---
 Hubelweg 18  
