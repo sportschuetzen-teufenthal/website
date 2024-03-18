@@ -1,8 +1,6 @@
 ---
 name: Ernst Lüscher
-position: Kassier, Aktuar und Vizepräsident
+position: Kassier und Vizepräsident
 image: /assets/images/GV-Sportschuetzen-2010-006.jpg
----
-Bergstrasse 15  
-5723 Teufenthal  
-Tel. 062 776 24 68  
+
+![Lüscher Ernst_1](https://github.com/sportschuetzen-teufenthal/website/assets/147444210/c3492f74-ae31-4b25-bc73-59ec6d5af229)
