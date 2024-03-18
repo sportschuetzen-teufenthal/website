@@ -1,7 +1,7 @@
 ---
 name: Ernst Lüscher
 position: Kassier, Aktuar und Vizepräsident
-image: /assets/images/GV-Sportschuetzen-2010-006.jpg
+image: /assets/images/vorstand_ernst_luescher.jpg
 ---
 Bergstrasse 15  
 5723 Teufenthal  

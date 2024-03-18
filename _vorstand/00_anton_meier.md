@@ -1,7 +1,7 @@
 ---
 name: Anton Meier
 position: Präsident
-image: /assets/images/Vorstandsmitglieder-006.jpg
+image: /assets/images/vorstand_anton_meier.jpg
 ---
 Rosenweg 10  
 5040 Schöftland  

@@ -1,7 +1,7 @@
 ---
 name: Hansueli Bolt
 position: Schützenmeister
-image: /assets/images/Vorstandsmitglieder-007.jpg
+image: /assets/images/vorstand_hansueli_bolt.jpg
 ---
 Raustrasse 20  
 5723 Teufenthal  
