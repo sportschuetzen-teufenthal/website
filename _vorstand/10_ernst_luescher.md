@@ -1,6 +1,6 @@
 ---
 name: Ernst Lüscher
-position: Kassier und Vizepräsident
+position: Aktuar, Kassier und Vizepräsident
 image: /assets/images/vorstand_ernst_luescher.jpg
 ---
 Bergstrasse 15  
