@@ -9,3 +9,6 @@ main:
     url: /schuetzenhaus/
   - title: "Galerie"
     url: /galerie/
+  - title: "Gönner"
+    url: /goenner/
+
