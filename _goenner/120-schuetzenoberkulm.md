@@ -1,9 +1,9 @@
 ---
-name: Sportschützen Oberkulm
+name: Schützenverein Oberkulm
 image: /assets/images/sportschuetzen_oberkulm.png
 ---
 
-Sportschützen Oberkulm
+Schützenverein Oberkulm
 
 
 
