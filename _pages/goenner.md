@@ -9,7 +9,7 @@ permalink: /goenner/
     <div class="feature__item--left">
       <div class="archive__item">
           <div class="archive__item-teaser">
-            <img src="{{ goenner.image | relative_url }}" alt="">
+            <a href="https://{{ goenner.goennerurl }}"><img src="{{ goenner.image | relative_url }}" alt="" style="margin-top:1em;margin-right:20em"></a>
           </div>
 
         <div class="archive__item-body">
